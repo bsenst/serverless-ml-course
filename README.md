@@ -4,6 +4,7 @@
 <a href="https://join.slack.com/t/featurestoreorg/shared_invite/zt-ssh8dec1-IsvwLdTsRMssjT4~Ru2RKg" alt="slack"> <img src="https://img.shields.io/badge/Join Slack-blue.svg?logo=slack" /></a> 
 <a href="https://www.youtube.com/channel/UC-LrK8ei6w57RmKeswkU23Q" alt="youtube"> <img src="https://img.shields.io/badge/Youtube-red.svg?logo=Youtube" /></a>
 
+![iris-feature-and-prediction-pipelines](https://github.com/bsenst/serverless-ml-course/.github/workflows/features-and-predictions.yml/badge.svg)
 
 # **[Beyond Notebooks - Serverless ML](https://www.serverless-ml.org)**
 ***Build Batch and Real-Time Prediction Services with Python***
