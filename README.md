@@ -5,6 +5,7 @@
 <a href="https://www.youtube.com/channel/UC-LrK8ei6w57RmKeswkU23Q" alt="youtube"> <img src="https://img.shields.io/badge/Youtube-red.svg?logo=Youtube" /></a>
 
 ![iris-feature-and-prediction-pipelines](https://github.com/bsenst/serverless-ml-course/.github/workflows/features-and-predictions.yml/badge.svg)
+![example workflow](https://github.com/bsenst/serverless-ml-course/actions/workflows/main.yml/badge.svg)
 
 # **[Beyond Notebooks - Serverless ML](https://www.serverless-ml.org)**
 ***Build Batch and Real-Time Prediction Services with Python***
