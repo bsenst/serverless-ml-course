@@ -5,6 +5,7 @@
 <a href="https://www.youtube.com/channel/UC-LrK8ei6w57RmKeswkU23Q" alt="youtube"> <img src="https://img.shields.io/badge/Youtube-red.svg?logo=Youtube" /></a>
 
 ![iris-feature-and-prediction-pipelines](https://github.com/bsenst/serverless-ml-course/actions/workflows/features-and-predictions.yml/badge.svg)
+![fraud-feature-pipelines](https://github.com/bsenst/serverless-ml-course/actions/workflows/fraud-feature-pipelines.yml/badge.svg) 
 
 **Register at [Serveless ML Course](https://www.serverless-ml.org/register)** 
 
